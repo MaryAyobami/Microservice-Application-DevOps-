@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/MaryAyobami/UdacityProject4.svg?style=svg)](https://app.circleci.com/pipelines/github/MaryAyobami/UdacityProject4/3/workflows/6034780f-481f-4007-8159-62d3d905b869)
 
 ## Project Overview
 
